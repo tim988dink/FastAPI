@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/timothydinkel/Projects/Python/FastAPI/venv"
+VIRTUAL_ENV="/home/timd/Projects/Python/FastAPI/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

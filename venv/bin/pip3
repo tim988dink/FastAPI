@@ -1,4 +1,4 @@
-#!/Users/timothydinkel/Projects/Python/FastAPI/venv/bin/python3
+#!/home/timd/Projects/Python/FastAPI/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
